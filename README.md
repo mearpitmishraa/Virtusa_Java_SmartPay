@@ -11,11 +11,11 @@ Above 300 units → ₹5/unit
 After calculating the base amount, it adds 18% tax and prints a formatted receipt.
 
 Important Code Explanation-
-Interface (Billable) is used to define a method calculateTotal()
+Interface (Billable) used to define a method calculateTotal()
 Class UtilityBill implements this interface and contains billing logic
-Slab calculation is done using conditional statements (if-else)
-Scanner class is used for user input
-String formatting is used to display amounts neatly
+Slab calculation done by using conditional statements (if-else)
+Scanner class used for user input
+String formatting used to display amounts neatly
 Loop allows multiple users until "Exit" is entered
 
 Logic Used-
