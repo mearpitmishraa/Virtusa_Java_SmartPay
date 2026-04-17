@@ -2,7 +2,6 @@ SmartPay Utility Bill Generator
 
 Introduction-
 This project is a simple Java-based utility billing system that calculates electricity or water bills based on units consume. It uses slab-based pricing and generates a digital receipt for each customer.
-
 Working Mechanism-
 The program takes customer input such as name and metar reading (previous and current). It calculates the units consume and applies different pricing slabs:
 First 100 units → ₹1/unit
